@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Nhà Trọ Mini (Nhà Trọ Pro)",
+  "description": "Ứng dụng quản lý nhà trọ thông minh quy mô dưới 50 phòng: quản lý phòng, hợp đồng, hóa đơn điện nước có mã VietQR, báo cáo doanh thu đa chiều và tự động nhắc nợ qua Zalo & Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
